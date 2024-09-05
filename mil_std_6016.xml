@@ -1,0 +1,38 @@
+<Document title="MIL-STD-6016">
+    <Section number="1" title="SCOPE">
+        <SubSection number="1.1" title="PURPOSE">
+            <Item type="paragraph" content="The purpose of MIL-STD-6016 is to describe the approved standards to achieve compatibility and interoperability between command and control and communications systems and equipment of U.S. military forces employed or intended to be employed in joint tactical operations."/>
+        </SubSection>
+        <SubSection number="1.2" title="DOCUMENT STRUCTURE">
+            <Item type="paragraph" content="MIL-STD-6016 consists of six sections and five appendices. Section 1 provides the introduction and scope. Section 2 provides the applicable documents required to operate on Link 16. Section 3 contains a glossary of terms and definitions and a summary description of The Joint Tactical Information Distribution System (JTIDS). Certain terms concerning interoperability, compatibility, and commonality are included, as well as other terms that have discrete meaning within the framework of MIL-STD-6016."/>
+        </SubSection>
+        <SubSection number="1.3" title="BACKGROUND">
+            <Item type="paragraph" content="JCS Memorandum SM-205-71, 1 April 1971, established a program to ensure the joint interoperability of tactical command and control systems in support of the Ground and Amphibious Military Operations (GAMO) Program."/>
+        </SubSection>
+        <SubSection number="1.4" title="POLICY">
+            <Item type="paragraph" content="Applicable statements of policy are contained in DOD directives and correspondence. Essentially, interoperability, compatibility, and commonality in the degree necessary to provide for flexible, effective and economical operation of tactical forces will be achieved."/>
+        </SubSection>
+        <SubSection number="1.5" title="CONCEPT">
+            <Item type="paragraph" content="MIL-STD-6016 complies with basic DOD policies and has been developed in consonance with the following concepts:"/>
+            <Item type="list" content="a. Tactical command and control, and communications systems standards are developed only for systems and equipment applicable to functional areas in which the need for interoperability and compatibility has been validated as essential by the Joint Chiefs of Staff."/>
+            <Item type="list" content="b. These standards apply to operational and future tactical systems and use system characteristics previously approved for Service use where such characteristics meet the joint requirements."/>
+            <Item type="list" content="c. This document establishes certain standards and criteria for message formats and transmission characteristics that will be used in the design and/or procurement of systems and equipment. Additionally, these standards will be used in computer program development and when new system designs are implemented within existing systems."/>
+            <Item type="list" content="d. An interface between tactical systems should exploit the maximum capability of sensors and processors to provide precise information exchange in support of tactical operations."/>
+        </SubSection>
+        <SubSection number="1.6" title="DEVELOPMENT OF STANDARDS">
+            <Item type="paragraph" content="MIL-STD-6016 was developed based on information produced by and coordinated with the U.S. Army, U.S. Navy, U.S. Air Force, U.S. Marine Corps, the National Security Agency, and the Defense Intelligence Agency, as documented in the JTIC dated April 1982 (amended and approved by the Joint Chiefs of Staff (JCS) on 5 May 1983)."/>
+            <Item type="list" content="a. Within the Joint Staff, standardization is accomplished by the Director for Command, Control and Communications Systems, J-6. Through the Director, J-6, the Defense Information Systems Agency (DISA/IN5) develops standards and criteria, as necessary."/>
+            <Item type="list" content="b. During the development of tactical standards, it is necessary to consider the relationship to other national standards and international standards. DISA/IN5 develops these standards in consultation with other activities of the Department of Defense, including DISA, DIA, and NSA/CSS, to ensure compatibility between U.S. tactical and strategic systems and equipment."/>
+        </SubSection>
+        <SubSection number="1.7" title="APPLICATION OF STANDARDS">
+            <Item type="list" content="a. Application of Minimum Requirements: The mandatory minimum requirements, Appendix A, apply to all systems, existing and future, that elect to exchange information via Link 16. The applicability of these requirements is directed toward digital data exchange in a joint environment where systems of two or more Services/DOD Agencies are involved."/>
+            <Item type="list" content="b. Exceptions to Minimum Requirements: Exceptions to the minimum requirements for information exchange will be considered and approved or denied on a case by case basis by DISA/IN5."/>
+        </SubSection>
+        <SubSection number="1.8" title="CONFIGURATION MANAGEMENT">
+            <Item type="paragraph" content="MIL-STD-6016 will be maintained as a baseline for configuration management of the Link 16 Interface in accordance with the JIEO Configuration Management Plan (CMP). The Director, DISA/IN5 is responsible for configuration management of MIL-STD-6016. S/A requests for changes must be prepared, submitted, and processed in accordance with the JIEO CMP."/>
+        </SubSection>
+        <SubSection number="1.9" title="INTERFACE OPERATING PROCEDURES">
+            <Item type="paragraph" content="The Link 16 Interface operating procedures are contained in CJCSM 6120.01, Joint Multi-Tactical Data Link (TDL) Operating Procedures (JMTOP)."/>
+        </SubSection>
+    </Section>
+</Document>
